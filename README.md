@@ -23,7 +23,8 @@ This project aims to develop a deep learning model that can accurately diagnose 
 
 Dependencies can be installed via pip:
 
-```sh
+
+sadfsad
 pip install -r requirements.txt
 
 or via conda:
