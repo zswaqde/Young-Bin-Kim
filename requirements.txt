@@ -1,0 +1,8 @@
+# requirements.txt 파일 생성
+echo "tensorflow==2.9.1
+numpy==1.22.4
+pandas==1.4.2
+matplotlib==3.5.2
+seaborn==0.11.2
+scikit-learn==1.1.1
+opencv-python==4.5.5.64" > requirements.txt
