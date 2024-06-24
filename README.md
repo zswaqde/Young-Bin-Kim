@@ -1,6 +1,6 @@
 # Intracranial Hemorrhage and Fracture Diagnosis
 
-This repository contains code for diagnosing intracranial hemorrhages and fractures from CT scans using a late fusion CNN model. The model processes two types of images: brain images and bone images, and it is capable of identifying multiple conditions such as intraventricular hemorrhage, intraparenchymal hemorrhage, subarachnoid hemorrhage, epidural hemorrhage, subdural hemorrhage, the absence of hemorrhage, and the presence of fractures.
+This repository contains code for diagnosing intracranial hemorrhages from CT scans using a late fusion CNN model. The model processes two types of images: brain images and bone images, and it is capable of identifying multiple conditions such as intraventricular hemorrhage, intraparenchymal hemorrhage, subarachnoid hemorrhage, epidural hemorrhage, and subdural hemorrhage, as well as determining the absence of hemorrhage.
 
 ![image](https://github.com/zswaqde/Young-Bin-Kim/assets/173070113/78b83477-9c85-421f-a1ac-e424afe35e17)
 
